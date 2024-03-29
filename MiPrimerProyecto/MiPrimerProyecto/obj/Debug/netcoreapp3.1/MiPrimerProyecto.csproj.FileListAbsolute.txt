@@ -1,0 +1,13 @@
+E:\MicrosoftCSharp\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp3.1\MiPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+E:\MicrosoftCSharp\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp3.1\MiPrimerProyecto.AssemblyInfoInputs.cache
+E:\MicrosoftCSharp\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp3.1\MiPrimerProyecto.AssemblyInfo.cs
+E:\MicrosoftCSharp\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp3.1\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+E:\MicrosoftCSharp\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp3.1\MiPrimerProyecto.exe
+E:\MicrosoftCSharp\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp3.1\MiPrimerProyecto.deps.json
+E:\MicrosoftCSharp\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp3.1\MiPrimerProyecto.runtimeconfig.json
+E:\MicrosoftCSharp\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp3.1\MiPrimerProyecto.runtimeconfig.dev.json
+E:\MicrosoftCSharp\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp3.1\MiPrimerProyecto.dll
+E:\MicrosoftCSharp\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\netcoreapp3.1\MiPrimerProyecto.pdb
+E:\MicrosoftCSharp\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp3.1\MiPrimerProyecto.dll
+E:\MicrosoftCSharp\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp3.1\MiPrimerProyecto.pdb
+E:\MicrosoftCSharp\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\netcoreapp3.1\MiPrimerProyecto.genruntimeconfig.cache
