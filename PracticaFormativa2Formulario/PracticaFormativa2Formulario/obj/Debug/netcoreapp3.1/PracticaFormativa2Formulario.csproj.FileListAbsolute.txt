@@ -1,0 +1,17 @@
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\obj\Debug\netcoreapp3.1\PracticaFormativa2Formulario.frmPrincipal.resources
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\obj\Debug\netcoreapp3.1\PracticaFormativa2Formulario.csproj.GenerateResource.cache
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\obj\Debug\netcoreapp3.1\PracticaFormativa2Formulario.GeneratedMSBuildEditorConfig.editorconfig
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\obj\Debug\netcoreapp3.1\PracticaFormativa2Formulario.AssemblyInfoInputs.cache
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\obj\Debug\netcoreapp3.1\PracticaFormativa2Formulario.AssemblyInfo.cs
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\obj\Debug\netcoreapp3.1\PracticaFormativa2Formulario.csproj.CoreCompileInputs.cache
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\obj\Debug\netcoreapp3.1\PracticaFormativa2Formulario.sourcelink.json
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\bin\Debug\netcoreapp3.1\PracticaFormativa2Formulario.exe
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\bin\Debug\netcoreapp3.1\PracticaFormativa2Formulario.deps.json
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\bin\Debug\netcoreapp3.1\PracticaFormativa2Formulario.runtimeconfig.json
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\bin\Debug\netcoreapp3.1\PracticaFormativa2Formulario.runtimeconfig.dev.json
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\bin\Debug\netcoreapp3.1\PracticaFormativa2Formulario.dll
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\bin\Debug\netcoreapp3.1\PracticaFormativa2Formulario.pdb
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\obj\Debug\netcoreapp3.1\PracticaFormativa2Formulario.dll
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\obj\Debug\netcoreapp3.1\PracticaFormativa2Formulario.pdb
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\obj\Debug\netcoreapp3.1\PracticaFormativa2Formulario.genruntimeconfig.cache
+E:\PracticasC-\PracticaFormativa2Formulario\PracticaFormativa2Formulario\obj\Debug\netcoreapp3.1\PracticaFormativa2Formulario.frmIngreso.resources

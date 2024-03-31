@@ -1,0 +1,14 @@
+E:\PracticasC-\PracticaFormativa2\PracticaFormativa2\obj\Debug\netcoreapp3.1\PracticaFormativa2.GeneratedMSBuildEditorConfig.editorconfig
+E:\PracticasC-\PracticaFormativa2\PracticaFormativa2\obj\Debug\netcoreapp3.1\PracticaFormativa2.AssemblyInfoInputs.cache
+E:\PracticasC-\PracticaFormativa2\PracticaFormativa2\obj\Debug\netcoreapp3.1\PracticaFormativa2.AssemblyInfo.cs
+E:\PracticasC-\PracticaFormativa2\PracticaFormativa2\obj\Debug\netcoreapp3.1\PracticaFormativa2.csproj.CoreCompileInputs.cache
+E:\PracticasC-\PracticaFormativa2\PracticaFormativa2\obj\Debug\netcoreapp3.1\PracticaFormativa2.sourcelink.json
+E:\PracticasC-\PracticaFormativa2\PracticaFormativa2\bin\Debug\netcoreapp3.1\PracticaFormativa2.exe
+E:\PracticasC-\PracticaFormativa2\PracticaFormativa2\bin\Debug\netcoreapp3.1\PracticaFormativa2.deps.json
+E:\PracticasC-\PracticaFormativa2\PracticaFormativa2\bin\Debug\netcoreapp3.1\PracticaFormativa2.runtimeconfig.json
+E:\PracticasC-\PracticaFormativa2\PracticaFormativa2\bin\Debug\netcoreapp3.1\PracticaFormativa2.runtimeconfig.dev.json
+E:\PracticasC-\PracticaFormativa2\PracticaFormativa2\bin\Debug\netcoreapp3.1\PracticaFormativa2.dll
+E:\PracticasC-\PracticaFormativa2\PracticaFormativa2\bin\Debug\netcoreapp3.1\PracticaFormativa2.pdb
+E:\PracticasC-\PracticaFormativa2\PracticaFormativa2\obj\Debug\netcoreapp3.1\PracticaFormativa2.dll
+E:\PracticasC-\PracticaFormativa2\PracticaFormativa2\obj\Debug\netcoreapp3.1\PracticaFormativa2.pdb
+E:\PracticasC-\PracticaFormativa2\PracticaFormativa2\obj\Debug\netcoreapp3.1\PracticaFormativa2.genruntimeconfig.cache

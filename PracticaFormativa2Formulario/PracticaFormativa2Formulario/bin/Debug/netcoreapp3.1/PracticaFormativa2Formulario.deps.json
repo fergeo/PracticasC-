@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PracticaFormativa2Formulario/1.0.0": {
+        "runtime": {
+          "PracticaFormativa2Formulario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticaFormativa2Formulario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
