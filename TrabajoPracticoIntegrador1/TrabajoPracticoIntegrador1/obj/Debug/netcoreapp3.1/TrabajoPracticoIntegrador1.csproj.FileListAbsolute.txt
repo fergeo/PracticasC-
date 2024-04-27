@@ -1,0 +1,14 @@
+E:\PracticasC-\TrabajoPracticoIntegrador1\TrabajoPracticoIntegrador1\bin\Debug\netcoreapp3.1\TrabajoPracticoIntegrador1.exe
+E:\PracticasC-\TrabajoPracticoIntegrador1\TrabajoPracticoIntegrador1\bin\Debug\netcoreapp3.1\TrabajoPracticoIntegrador1.deps.json
+E:\PracticasC-\TrabajoPracticoIntegrador1\TrabajoPracticoIntegrador1\bin\Debug\netcoreapp3.1\TrabajoPracticoIntegrador1.runtimeconfig.json
+E:\PracticasC-\TrabajoPracticoIntegrador1\TrabajoPracticoIntegrador1\bin\Debug\netcoreapp3.1\TrabajoPracticoIntegrador1.runtimeconfig.dev.json
+E:\PracticasC-\TrabajoPracticoIntegrador1\TrabajoPracticoIntegrador1\bin\Debug\netcoreapp3.1\TrabajoPracticoIntegrador1.dll
+E:\PracticasC-\TrabajoPracticoIntegrador1\TrabajoPracticoIntegrador1\bin\Debug\netcoreapp3.1\TrabajoPracticoIntegrador1.pdb
+E:\PracticasC-\TrabajoPracticoIntegrador1\TrabajoPracticoIntegrador1\obj\Debug\netcoreapp3.1\TrabajoPracticoIntegrador1.GeneratedMSBuildEditorConfig.editorconfig
+E:\PracticasC-\TrabajoPracticoIntegrador1\TrabajoPracticoIntegrador1\obj\Debug\netcoreapp3.1\TrabajoPracticoIntegrador1.AssemblyInfoInputs.cache
+E:\PracticasC-\TrabajoPracticoIntegrador1\TrabajoPracticoIntegrador1\obj\Debug\netcoreapp3.1\TrabajoPracticoIntegrador1.AssemblyInfo.cs
+E:\PracticasC-\TrabajoPracticoIntegrador1\TrabajoPracticoIntegrador1\obj\Debug\netcoreapp3.1\TrabajoPracticoIntegrador1.csproj.CoreCompileInputs.cache
+E:\PracticasC-\TrabajoPracticoIntegrador1\TrabajoPracticoIntegrador1\obj\Debug\netcoreapp3.1\TrabajoPracticoIntegrador1.sourcelink.json
+E:\PracticasC-\TrabajoPracticoIntegrador1\TrabajoPracticoIntegrador1\obj\Debug\netcoreapp3.1\TrabajoPracticoIntegrador1.dll
+E:\PracticasC-\TrabajoPracticoIntegrador1\TrabajoPracticoIntegrador1\obj\Debug\netcoreapp3.1\TrabajoPracticoIntegrador1.pdb
+E:\PracticasC-\TrabajoPracticoIntegrador1\TrabajoPracticoIntegrador1\obj\Debug\netcoreapp3.1\TrabajoPracticoIntegrador1.genruntimeconfig.cache

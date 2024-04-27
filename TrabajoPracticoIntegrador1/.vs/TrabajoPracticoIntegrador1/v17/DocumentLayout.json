@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PracticasC-\\TrabajoPracticoIntegrador1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EBA38C-B69E-412E-B467-3EE7E6B3CCF0}|TrabajoPracticoIntegrador1\\TrabajoPracticoIntegrador1.csproj|e:\\practicasc-\\trabajopracticointegrador1\\trabajopracticointegrador1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EBA38C-B69E-412E-B467-3EE7E6B3CCF0}|TrabajoPracticoIntegrador1\\TrabajoPracticoIntegrador1.csproj|solutionrelative:trabajopracticointegrador1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PracticasC-\\TrabajoPracticoIntegrador1\\TrabajoPracticoIntegrador1\\Program.cs",
+              "RelativeDocumentMoniker": "TrabajoPracticoIntegrador1\\Program.cs",
+              "ToolTip": "E:\\PracticasC-\\TrabajoPracticoIntegrador1\\TrabajoPracticoIntegrador1\\Program.cs",
+              "RelativeToolTip": "TrabajoPracticoIntegrador1\\Program.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAnwGwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:55:23.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
